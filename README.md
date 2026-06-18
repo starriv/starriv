@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-Hello, I'm Starriv, a passionate web developer. My current focus is on the Web 3.0 development. ❤️
+Hello, I'm Starriv, an AI-driven engineer and creator.  
+I use vibe coding to craft beautiful, thoughtful things with care. ❤️
 
 ### Skills
 <div>
